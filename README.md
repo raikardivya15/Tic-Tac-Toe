@@ -1,6 +1,6 @@
 # Tic-Tac-Toe App
 
-Mobile-friendly Tic Tac Toe game with a dark theme, bubble-style buttons, scoreboard, and full-screen win/draw overlay. Available as a web app and Android `.apk`.
+Mobile-friendly Tic Tac Toe game with a dark theme, scoreboard, and full-screen win/draw overlay. Available as a web app and Android `.apk`.
 
 ## Features
 - Responsive layout for mobile and desktop  
