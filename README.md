@@ -14,7 +14,7 @@ Open `index.html` in any modern browser to play the web version.
 
 ## APK Release
 You can download the Android app from the latest release:  
-[Download app-release.apk](https://github.com/YOUR-USERNAME/tic-tac-toe-app/releases/latest)
+[Download app-release.apk](https://github.com/raikardivya15/Tic-Tac-Toe/blob/main/app-release.apk)
 
 ---
 
