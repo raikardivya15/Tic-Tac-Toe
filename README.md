@@ -6,7 +6,7 @@ Mobile-friendly Tic Tac Toe game with a dark theme, bubble-style buttons, scoreb
 - Responsive layout for mobile and desktop  
 - Clean dark (black) aesthetic  
 - Keeps score for Player X, Player O, and Draws across rounds  
-- Full-screen win/draw overlay with a white "New Game" bubble button  
+- Full-screen 
 - Accessible keyboard + touch support
 
 ## Demo
@@ -14,7 +14,7 @@ Open `index.html` in any modern browser (mobile or desktop) to play.
 
 ## Files
 - `index.html` — game markup and templates  
-- `style.css` — styles (dark theme + bubble buttons)  
+- `style.css` — styles (dark theme)  
 - `script.js` — game logic (board, win detection, scoreboard, overlay)
 
 ## Installation
